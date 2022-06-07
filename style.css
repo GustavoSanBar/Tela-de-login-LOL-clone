@@ -27,7 +27,7 @@
     max-width: 500px;
     min-height: 100vh;
     padding: clamp(35px, 8%, 70px);
-    background-color: #a7a7a7;
+    background-color: var(--white);
 }
 
 .login_logo {
@@ -57,5 +57,5 @@
     padding: 25px 10px 10px;
     font-weight: 600;
     color: var(--deep-grey);
-
 }
+
